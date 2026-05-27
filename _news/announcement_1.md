@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented a paper at the <a href="https://sites.google.com/view/iclasp19-tucson/home?authuser=0" target="_blank">19th International Conference on Language and Social Psychology (ICLASP 19)</a> in Tucson, Arizona.
+Elected Regional Representative (North America) of the <a href="https://www.ialsp.org/" target="_blank">International Association of Language and Social Psychology</a>.
