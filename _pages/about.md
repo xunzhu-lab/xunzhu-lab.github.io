@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Kentucky</a> · Department of Communication <br><a style="color: inherit; text-decoration: none;" href="mailto:xun.zhu@uky.edu">xun.zhu@uky.edu</a> · (859) 257-3467
+subtitle: University of Kentucky · Department of Communication<br><a style="color: inherit; text-decoration: none;" href="mailto:xun.zhu@uky.edu">xun.zhu@uky.edu</a> · (859) 257-3467
 
 profile:
   align: right
@@ -29,5 +29,3 @@ latest_posts:
 I study how communication creates the beliefs that groups come to share—and how those shared beliefs influence behavior, well-being, and intergroup relations. My research is grounded in the idea that societies are structured not only by formal institutions such as laws and policies, but also by collectively held understandings about people, groups, and their relationships. I seek to explain how these shared beliefs emerge, how people respond to them, and how communication can reinforce or transform them. 
 
 To address these questions, I examine the communication processes through which ideas circulate within and across social groups, linking macro-level patterns of collective understanding with the micro-level interactions through which beliefs are expressed and negotiated. I pursue this work primarily in the contexts of health and technological innovations, where shared beliefs have especially consequential implications for well-being and social inequality. 
-
-
