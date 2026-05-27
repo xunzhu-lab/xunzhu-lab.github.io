@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Kentucky</a>. Department of Communication. <br><a href='mailto:xun.zhu@uky.edu'>xun.zhu@uky.edu</a> | (859) 257-3467
+subtitle: <a href='#'>University of Kentucky</a> · Department of Communication <br><a style="color: inherit; text-decoration: none;" href="mailto:xun.zhu@uky.edu">xun.zhu@uky.edu</a> · (859) 257-3467
 
 profile:
   align: right
@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>352C Pence Hall</p>
-    <p>507 Library Dr</p>
     <p>Lexington, KY 40508</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
