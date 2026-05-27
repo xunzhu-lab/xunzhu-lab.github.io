@@ -8,7 +8,8 @@ email: xun.zhu@uky.edu # your email address
 scholar_userid: IXeZDDAAAAAJ # your Google Scholar ID
 research_gate_profile: Xun-Zhu-24
 github_username: xunzhu-lab
-osf_id: https://osf.io/e6abj/
+osf_id: e6abj
+orcid_id: 0000-0003-1000-8324
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
