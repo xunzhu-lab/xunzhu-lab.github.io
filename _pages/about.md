@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Kentucky · Department of Communication<br><a style="color: inherit; text-decoration: none;" href="mailto:xun.zhu@uky.edu">xun.zhu@uky.edu</a> · (859) 257-3467
+subtitle: 'University of Kentucky · Department of Communication · <a href="mailto:xun.zhu@uky.edu">xun.zhu@uky.edu</a> · (859) 257-3467'
 
 profile:
   align: right
