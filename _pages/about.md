@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Kentucky</a>. Department of Communication. <a href='mailto:xun.zhu@uky.edu'>xun.zhu@uky.edu</a>
+subtitle: <a href='#'>University of Kentucky</a>. Department of Communication. <br><a href='mailto:xun.zhu@uky.edu'>xun.zhu@uky.edu</a> | (859) 257-3467
 
 profile:
   align: right
@@ -31,4 +31,4 @@ I study how communication creates the beliefs that groups come to share—and ho
 
 To address these questions, I examine the communication processes through which ideas circulate within and across social groups, linking macro-level patterns of collective understanding with the micro-level interactions through which beliefs are expressed and negotiated. I pursue this work primarily in the contexts of health and technological innovations, where shared beliefs have especially consequential implications for well-being and social inequality. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
