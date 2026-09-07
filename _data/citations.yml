@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-09-07'
 papers:
   IXeZDDAAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: 'The Communicative Etiology of Consensual Stereotypes: Integrating Common Information Bias and Positive Ingroup Bias'
     year: '2018'
   IXeZDDAAAAAJ:4DMP91E08xMC:
-    citations: 9
+    citations: 10
     title: 'Extending the Theory of Normative Social Behavior: Collective Norms, Opinion Leadership, and Masking During the COVID-19 Pandemic'
     year: '2024'
   IXeZDDAAAAAJ:4OULZ7Gr8RgC:
@@ -34,25 +34,21 @@ papers:
     title: "Validating the Two-Factor Model of the Gambling Functional Assessment \u2013 Revised in a Mainland Chinese sample"
     year: '2022'
   IXeZDDAAAAAJ:9yKSN-GCB0IC:
-    citations: 72
+    citations: 74
     title: 'Understanding the effects of stigma messages: Danger appraisal and message judgments'
     year: '2019'
   IXeZDDAAAAAJ:HDshCWvjkbEC:
-    citations: 9
+    citations: 10
     title: 'Racial Disparities in Medical Crowdfunding: The Role of Sharing Disparity and Humanizing Narratives'
     year: '2024'
   IXeZDDAAAAAJ:IjCSPb-OGe4C:
-    citations: 74
+    citations: 75
     title: Stigma and health/risk communication
-    year: '2016'
+    year: '2015'
   IXeZDDAAAAAJ:M3NEmzRMIkIC:
-    citations: 0
+    citations: 2
     title: 'Reducing Prejudice Through Narrative Writing: The Effects of Contact Type and Linguistic Authenticity'
     year: '2024'
-  IXeZDDAAAAAJ:M3ejUd6NZC8C:
-    citations: 0
-    title: Communal Food Measure
-    year: Unknown Year
   IXeZDDAAAAAJ:MXK_kJrjxJIC:
     citations: 3
     title: 'Standing out while fitting in: Examining linguistic choices by boundary spanners'
@@ -66,7 +62,7 @@ papers:
     title: "Investigating an intervention\u2019s causal story: mediation analysis using a factorial experiment and multiple mediators"
     year: '2018'
   IXeZDDAAAAAJ:UebtZRa9Y70C:
-    citations: 66
+    citations: 68
     title: 'Understanding the structure of risk belief systems concerning drone delivery: A network analysis'
     year: '2020'
   IXeZDDAAAAAJ:W7OEmFMy1HYC:
@@ -86,7 +82,7 @@ papers:
     title: 'Longitudinal study of an emerging COVID-19 stigma: Media exposure, danger appraisal, and stress.'
     year: '2023'
   IXeZDDAAAAAJ:YsMSGLbcyi4C:
-    citations: 341
+    citations: 345
     title: 'Information manipulation theory 2: A propositional theory of deceptive discourse production'
     year: '2014'
   IXeZDDAAAAAJ:ZeXyd9-uunAC:
@@ -106,37 +102,41 @@ papers:
     title: 'Mitigating Identity Threat in Health Messaging: A Social Identity Complexity Perspective'
     year: '2025'
   IXeZDDAAAAAJ:_kc_bZDykSQC:
-    citations: 80
+    citations: 85
     title: A meta-analysis of weight stigma and health behaviors
     year: '2022'
+  IXeZDDAAAAAJ:bFI3QPDXJZMC:
+    citations: 0
+    title: 'Storytelling as a Bridge: Examining the Psychological Processes of Fictional Writing on Intergroup Understanding'
+    year: '2026'
   IXeZDDAAAAAJ:cFHS6HbyZ2cC:
     citations: 1
     title: 'Differential Effects of Counter-Stereotypical Portrayals of Warmth Across Racial Groups: Behavioral and Experimental Evidence'
     year: '2026'
   IXeZDDAAAAAJ:d1gkVwhDpl0C:
-    citations: 59
+    citations: 60
     title: Integrating models of diffusion and behavior to predict innovation adoption, maintenance, and social diffusion
     year: '2018'
   IXeZDDAAAAAJ:eQOLeE2rZwMC:
-    citations: 91
+    citations: 92
     title: Why is the vegan line in the dining hall always the shortest? Understanding vegan stigma.
     year: '2016'
+  IXeZDDAAAAAJ:f2IySw72cVMC:
+    citations: 0
+    title: 'From Exposure to Creation: Cultivating Narrative Ownership to Reduce Stigma'
+    year: '2026'
   IXeZDDAAAAAJ:hFOr9nPyWt4C:
     citations: 6
     title: Short-and Mid-Term Forecasting of Pan-Arctic Sea Ice Volume Using Variational Mode Decomposition and Bidirectional Long Short-Term Memory
     year: '2023'
   IXeZDDAAAAAJ:kNdYIx-mwKoC:
-    citations: 47
+    citations: 48
     title: Stigma, Communication, and Health
     year: '2021'
   IXeZDDAAAAAJ:mVmsd5A6BfQC:
     citations: 15
     title: 'Environmental Monitoring for Arctic Resiliency and Sustainability: An Integrated Approach with Topic Modeling and Network Analysis'
     year: '2022'
-  IXeZDDAAAAAJ:qUcmZB5y_30C:
-    citations: 0
-    title: Status Loss Measure
-    year: Unknown Year
   IXeZDDAAAAAJ:qjMakFHDy7sC:
     citations: 80
     title: Do messages spread widely also diffuse fast? Examining the effects of message characteristics on information diffusion
@@ -146,7 +146,7 @@ papers:
     title: Mapping Linguistic Shifts during Psychological Coping with the COVID-19 Pandemic
     year: '2023'
   IXeZDDAAAAAJ:rO6llkc54NcC:
-    citations: 0
+    citations: 1
     title: 'Revisiting Communication Infrastructure Theory: A Meta-Analytical Approach to Understanding the Influence of Integrated Connectedness to a Neighborhood Storytelling Network'
     year: '2025'
   IXeZDDAAAAAJ:roLk4NBRz8UC:
@@ -154,7 +154,7 @@ papers:
     title: 'Power and Stigma: Examining Chinese Students'' Stigmatized Responses to Chronic Hbv Carriers'
     year: '2014'
   IXeZDDAAAAAJ:u-x6o8ySG0sC:
-    citations: 18
+    citations: 19
     title: "Understanding the public\u2019s intentions to purchase and to persuade others to purchase antibiotic-free meat"
     year: '2017'
   IXeZDDAAAAAJ:ufrVoPGSRksC:
